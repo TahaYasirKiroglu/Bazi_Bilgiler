@@ -1,3 +1,5 @@
+#Ubuntu için
+
 Şu komutlar önbelleği temizler
 ~~~bash
 sudo apt-get autoclean

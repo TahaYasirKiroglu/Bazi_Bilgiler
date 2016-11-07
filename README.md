@@ -1,3 +1,3 @@
-# Baz-Bilgiler
+# Bazı-Bilgiler
 
-Bu dosya bazı konuların anlatımı için oluşturulmuştur.
+Bu dosya, rastladığım bazı sorunların çözümlerini kaydetmek için oluşturulmuştur.
